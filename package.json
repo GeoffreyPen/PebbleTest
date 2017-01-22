@@ -1,0 +1,37 @@
+{
+    "author": "gpenford@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "gv1",
+    "pebble": {
+        "displayName": "GV1",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "JSReady",
+            "lat",
+            "long"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "fonts/Font1",
+                    "name": "Font_sample_1",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "10974c46-71f9-4a64-986a-2566647f8ba7",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
